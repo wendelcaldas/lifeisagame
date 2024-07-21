@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>BIBICA É MUITO RUIM</h1>
+    <h1>Campeoes proibidos no clash: PANTHEON</h1>
 </body>
 </html>
