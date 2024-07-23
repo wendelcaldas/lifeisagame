@@ -26,4 +26,6 @@ Route::middleware('auth')->group(function () {
 
 Route::get('/financas', [FinancasController::class, 'index'])->name('financeiro.home');
 
+Route::get('/search', [SearchController::class, 'search'])->name('search');
+
 require __DIR__.'/auth.php';
