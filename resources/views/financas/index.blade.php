@@ -31,6 +31,20 @@
                 <div class="dia-semana"></div>
                 <div class="dia-semana"></div>
             </div>
+            <div class="calculadora">
+
+            </div>
+            <div class="infos">
+                <div class="info">
+
+                </div>
+                <div class="info">
+
+                </div>
+                <div class="info">
+
+                </div>
+            </div>
         </div>
         <div class="page-down-right">
 
