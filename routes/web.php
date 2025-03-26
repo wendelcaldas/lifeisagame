@@ -5,7 +5,7 @@ use App\Http\Controllers\FinancasController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('teste');
+    return view('embreve');
 });
 
 Route::get('/inicio', function () {
